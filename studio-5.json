@@ -1,0 +1,338 @@
+[
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-04T18:00:00Z",
+        "endTime": "2025-04-07T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-07T17:00:00Z",
+        "endTime": "2025-04-07T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-07T18:00:00Z",
+        "endTime": "2025-04-08T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-08T17:00:00Z",
+        "endTime": "2025-04-08T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-08T18:00:00Z",
+        "endTime": "2025-04-09T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-09T17:00:00Z",
+        "endTime": "2025-04-09T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-09T18:00:00Z",
+        "endTime": "2025-04-10T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-10T17:00:00Z",
+        "endTime": "2025-04-10T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-10T18:00:00Z",
+        "endTime": "2025-04-11T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-11T17:00:00Z",
+        "endTime": "2025-04-11T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-11T18:00:00Z",
+        "endTime": "2025-04-14T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-14T17:00:00Z",
+        "endTime": "2025-04-14T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-14T18:00:00Z",
+        "endTime": "2025-04-15T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-15T17:00:00Z",
+        "endTime": "2025-04-15T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-15T18:00:00Z",
+        "endTime": "2025-04-16T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-16T17:00:00Z",
+        "endTime": "2025-04-16T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-16T18:00:00Z",
+        "endTime": "2025-04-17T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-17T17:00:00Z",
+        "endTime": "2025-04-17T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-17T18:00:00Z",
+        "endTime": "2025-04-18T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Streaming",
+        "startTime": "2025-04-18T17:00:00Z",
+        "endTime": "2025-04-18T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    },
+    {
+        "id": null,
+        "title": "Studio 5 Repeat",
+        "startTime": "2025-04-18T18:00:00Z",
+        "endTime": "2025-04-21T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": ""
+            },
+            {
+                "key": "image",
+                "value": null
+            }
+        ]
+    }
+]
