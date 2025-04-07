@@ -1,1362 +1,1362 @@
 [
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-07T02:00:00Z",
-        "endTime": "2025-04-07T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-07T06:00:00Z",
-        "endTime": "2025-04-07T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-07T10:00:00Z",
-        "endTime": "2025-04-07T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-07T14:00:00Z",
-        "endTime": "2025-04-07T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-07T18:00:00Z",
-        "endTime": "2025-04-07T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-07T22:00:00Z",
-        "endTime": "2025-04-08T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-08T02:00:00Z",
-        "endTime": "2025-04-08T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-08T06:00:00Z",
-        "endTime": "2025-04-08T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-08T10:00:00Z",
-        "endTime": "2025-04-08T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-08T14:00:00Z",
-        "endTime": "2025-04-08T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-08T18:00:00Z",
-        "endTime": "2025-04-08T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-08T22:00:00Z",
-        "endTime": "2025-04-09T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-09T02:00:00Z",
-        "endTime": "2025-04-09T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-09T06:00:00Z",
-        "endTime": "2025-04-09T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-09T10:00:00Z",
-        "endTime": "2025-04-09T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-09T14:00:00Z",
-        "endTime": "2025-04-09T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-09T18:00:00Z",
-        "endTime": "2025-04-09T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-09T22:00:00Z",
-        "endTime": "2025-04-10T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-10T02:00:00Z",
-        "endTime": "2025-04-10T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-10T06:00:00Z",
-        "endTime": "2025-04-10T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-10T10:00:00Z",
-        "endTime": "2025-04-10T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-10T14:00:00Z",
-        "endTime": "2025-04-10T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-10T18:00:00Z",
-        "endTime": "2025-04-10T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-10T22:00:00Z",
-        "endTime": "2025-04-11T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-11T02:00:00Z",
-        "endTime": "2025-04-11T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-11T06:00:00Z",
-        "endTime": "2025-04-11T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-11T10:00:00Z",
-        "endTime": "2025-04-11T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-11T14:00:00Z",
-        "endTime": "2025-04-11T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-11T18:00:00Z",
-        "endTime": "2025-04-11T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-11T22:00:00Z",
-        "endTime": "2025-04-12T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-12T02:00:00Z",
-        "endTime": "2025-04-12T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-12T06:00:00Z",
-        "endTime": "2025-04-12T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-12T10:00:00Z",
-        "endTime": "2025-04-12T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-12T14:00:00Z",
-        "endTime": "2025-04-12T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-12T18:00:00Z",
-        "endTime": "2025-04-12T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-12T22:00:00Z",
-        "endTime": "2025-04-13T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-13T02:00:00Z",
-        "endTime": "2025-04-13T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-13T06:00:00Z",
-        "endTime": "2025-04-13T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-13T10:00:00Z",
-        "endTime": "2025-04-13T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-13T14:00:00Z",
-        "endTime": "2025-04-13T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-13T18:00:00Z",
-        "endTime": "2025-04-13T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-13T22:00:00Z",
-        "endTime": "2025-04-14T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-14T02:00:00Z",
-        "endTime": "2025-04-14T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-14T06:00:00Z",
-        "endTime": "2025-04-14T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-14T10:00:00Z",
-        "endTime": "2025-04-14T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-14T14:00:00Z",
-        "endTime": "2025-04-14T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-14T18:00:00Z",
-        "endTime": "2025-04-14T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-14T22:00:00Z",
-        "endTime": "2025-04-15T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-15T02:00:00Z",
-        "endTime": "2025-04-15T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-15T06:00:00Z",
-        "endTime": "2025-04-15T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-15T10:00:00Z",
-        "endTime": "2025-04-15T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-15T14:00:00Z",
-        "endTime": "2025-04-15T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-15T18:00:00Z",
-        "endTime": "2025-04-15T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-15T22:00:00Z",
-        "endTime": "2025-04-16T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-16T02:00:00Z",
-        "endTime": "2025-04-16T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-16T06:00:00Z",
-        "endTime": "2025-04-16T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-16T10:00:00Z",
-        "endTime": "2025-04-16T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-16T14:00:00Z",
-        "endTime": "2025-04-16T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-16T18:00:00Z",
-        "endTime": "2025-04-16T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-16T22:00:00Z",
-        "endTime": "2025-04-17T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-17T02:00:00Z",
-        "endTime": "2025-04-17T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-17T06:00:00Z",
-        "endTime": "2025-04-17T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-17T10:00:00Z",
-        "endTime": "2025-04-17T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-17T14:00:00Z",
-        "endTime": "2025-04-17T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-17T18:00:00Z",
-        "endTime": "2025-04-17T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-17T22:00:00Z",
-        "endTime": "2025-04-18T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-18T02:00:00Z",
-        "endTime": "2025-04-18T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-18T06:00:00Z",
-        "endTime": "2025-04-18T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-18T10:00:00Z",
-        "endTime": "2025-04-18T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-18T14:00:00Z",
-        "endTime": "2025-04-18T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-18T18:00:00Z",
-        "endTime": "2025-04-18T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-18T22:00:00Z",
-        "endTime": "2025-04-19T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-19T02:00:00Z",
-        "endTime": "2025-04-19T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-19T06:00:00Z",
-        "endTime": "2025-04-19T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-19T10:00:00Z",
-        "endTime": "2025-04-19T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-19T14:00:00Z",
-        "endTime": "2025-04-19T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-19T18:00:00Z",
-        "endTime": "2025-04-19T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-19T22:00:00Z",
-        "endTime": "2025-04-20T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-20T02:00:00Z",
-        "endTime": "2025-04-20T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-20T06:00:00Z",
-        "endTime": "2025-04-20T10:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-20T10:00:00Z",
-        "endTime": "2025-04-20T14:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-20T14:00:00Z",
-        "endTime": "2025-04-20T18:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-20T18:00:00Z",
-        "endTime": "2025-04-20T22:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-20T22:00:00Z",
-        "endTime": "2025-04-21T02:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    },
-    {
-        "id": null,
-        "title": "KSL Weather",
-        "startTime": "2025-04-21T02:00:00Z",
-        "endTime": "2025-04-21T06:00:00Z",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": ""
-            },
-            {
-                "key": "image",
-                "value": null
-            }
-        ]
-    }
+  {
+    "id": "fbcd8ed9-992b-46f5-baa8-1656a7a6b4d8",
+    "title": "KSL Weather",
+    "startTime": "2025-04-07T02:00:00Z",
+    "endTime": "2025-04-07T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "67f8bbdc-5231-40cd-8b2e-954a797849ad",
+    "title": "KSL Weather",
+    "startTime": "2025-04-07T06:00:00Z",
+    "endTime": "2025-04-07T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "7eb605bb-6a4a-47d0-82f2-0da744780d6a",
+    "title": "KSL Weather",
+    "startTime": "2025-04-07T10:00:00Z",
+    "endTime": "2025-04-07T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "ee551ae3-3fa6-43fa-959a-9a24ff084b19",
+    "title": "KSL Weather",
+    "startTime": "2025-04-07T14:00:00Z",
+    "endTime": "2025-04-07T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "73f3690e-0bc2-4956-8455-7cbeac4a0397",
+    "title": "KSL Weather",
+    "startTime": "2025-04-07T18:00:00Z",
+    "endTime": "2025-04-07T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "d705dfff-fe6e-474e-b4f8-1be2ff4d7db2",
+    "title": "KSL Weather",
+    "startTime": "2025-04-07T22:00:00Z",
+    "endTime": "2025-04-08T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "8a7a0959-336d-4ede-b140-fc78062c6fa6",
+    "title": "KSL Weather",
+    "startTime": "2025-04-08T02:00:00Z",
+    "endTime": "2025-04-08T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "dc7d46c0-1062-426e-a143-68b76b8bfeed",
+    "title": "KSL Weather",
+    "startTime": "2025-04-08T06:00:00Z",
+    "endTime": "2025-04-08T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "32716970-0e86-40d1-91a5-491780e872e9",
+    "title": "KSL Weather",
+    "startTime": "2025-04-08T10:00:00Z",
+    "endTime": "2025-04-08T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "12fe31a2-9889-4d12-a5d3-51ddd3e8d413",
+    "title": "KSL Weather",
+    "startTime": "2025-04-08T14:00:00Z",
+    "endTime": "2025-04-08T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "61a96acf-e531-4c54-bafd-023726e753b9",
+    "title": "KSL Weather",
+    "startTime": "2025-04-08T18:00:00Z",
+    "endTime": "2025-04-08T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "92478d8e-11fd-4725-9ac8-0f499cdb6c5d",
+    "title": "KSL Weather",
+    "startTime": "2025-04-08T22:00:00Z",
+    "endTime": "2025-04-09T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "74eca663-f611-40b1-b0be-2de7e71f96ae",
+    "title": "KSL Weather",
+    "startTime": "2025-04-09T02:00:00Z",
+    "endTime": "2025-04-09T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "7c7d3b9a-ab90-43c5-9167-6d282a1ffe59",
+    "title": "KSL Weather",
+    "startTime": "2025-04-09T06:00:00Z",
+    "endTime": "2025-04-09T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "fca9f478-a392-4fa3-9745-9f1965d40ac9",
+    "title": "KSL Weather",
+    "startTime": "2025-04-09T10:00:00Z",
+    "endTime": "2025-04-09T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "25f3f585-f7ad-4dfa-9594-195cdb042a80",
+    "title": "KSL Weather",
+    "startTime": "2025-04-09T14:00:00Z",
+    "endTime": "2025-04-09T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "eec1daed-278d-4310-b8b5-17d9a539b6ec",
+    "title": "KSL Weather",
+    "startTime": "2025-04-09T18:00:00Z",
+    "endTime": "2025-04-09T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "a5bbf24a-14ab-452a-bea6-dea0b50ebeb5",
+    "title": "KSL Weather",
+    "startTime": "2025-04-09T22:00:00Z",
+    "endTime": "2025-04-10T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "00214e78-a7d4-4aad-a965-c44c67f1e641",
+    "title": "KSL Weather",
+    "startTime": "2025-04-10T02:00:00Z",
+    "endTime": "2025-04-10T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "87beb38a-baf9-4055-baed-68dd69f27a9d",
+    "title": "KSL Weather",
+    "startTime": "2025-04-10T06:00:00Z",
+    "endTime": "2025-04-10T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "8d070971-6eb0-40d1-a706-34584de833d7",
+    "title": "KSL Weather",
+    "startTime": "2025-04-10T10:00:00Z",
+    "endTime": "2025-04-10T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "84da4219-12b1-4223-8f68-d2c08febbaa8",
+    "title": "KSL Weather",
+    "startTime": "2025-04-10T14:00:00Z",
+    "endTime": "2025-04-10T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "0196fa71-98b7-4679-a195-88cb8d17b1d8",
+    "title": "KSL Weather",
+    "startTime": "2025-04-10T18:00:00Z",
+    "endTime": "2025-04-10T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "e3dbf48a-6631-40cc-9dd4-1f9cde96a03d",
+    "title": "KSL Weather",
+    "startTime": "2025-04-10T22:00:00Z",
+    "endTime": "2025-04-11T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "2cb24cd8-22de-4e1a-a531-33e512a0b457",
+    "title": "KSL Weather",
+    "startTime": "2025-04-11T02:00:00Z",
+    "endTime": "2025-04-11T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "41ad9201-4e90-4e08-8cc1-86eb36404a1f",
+    "title": "KSL Weather",
+    "startTime": "2025-04-11T06:00:00Z",
+    "endTime": "2025-04-11T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "56a302cc-fba3-486a-a632-d694a6f13f90",
+    "title": "KSL Weather",
+    "startTime": "2025-04-11T10:00:00Z",
+    "endTime": "2025-04-11T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "1a1f3779-42e7-418a-a50f-5882c86da363",
+    "title": "KSL Weather",
+    "startTime": "2025-04-11T14:00:00Z",
+    "endTime": "2025-04-11T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "1746e7b5-56ed-4bea-b869-bcccbb0c6dac",
+    "title": "KSL Weather",
+    "startTime": "2025-04-11T18:00:00Z",
+    "endTime": "2025-04-11T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "c4af9f6c-6c49-4163-ae70-70b01feacc35",
+    "title": "KSL Weather",
+    "startTime": "2025-04-11T22:00:00Z",
+    "endTime": "2025-04-12T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "0598e668-8799-4e8b-83da-98e3b4c80943",
+    "title": "KSL Weather",
+    "startTime": "2025-04-12T02:00:00Z",
+    "endTime": "2025-04-12T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "981dbd95-6b5e-46f0-871e-a849b0af6b56",
+    "title": "KSL Weather",
+    "startTime": "2025-04-12T06:00:00Z",
+    "endTime": "2025-04-12T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "0dfd869a-4921-4e71-8a1b-4079e7ca8a7b",
+    "title": "KSL Weather",
+    "startTime": "2025-04-12T10:00:00Z",
+    "endTime": "2025-04-12T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "0d882d62-78af-4141-ae80-5ef2422d9702",
+    "title": "KSL Weather",
+    "startTime": "2025-04-12T14:00:00Z",
+    "endTime": "2025-04-12T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "d9e17862-5d21-4cc9-b3f2-431e273254dd",
+    "title": "KSL Weather",
+    "startTime": "2025-04-12T18:00:00Z",
+    "endTime": "2025-04-12T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "c9a3ae73-d898-46b5-ace5-c2740a515ed1",
+    "title": "KSL Weather",
+    "startTime": "2025-04-12T22:00:00Z",
+    "endTime": "2025-04-13T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "4dd4555f-459b-4bef-8766-e98d60626d97",
+    "title": "KSL Weather",
+    "startTime": "2025-04-13T02:00:00Z",
+    "endTime": "2025-04-13T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "e3419b84-a414-4e66-98ae-f2b1d9cd3ba9",
+    "title": "KSL Weather",
+    "startTime": "2025-04-13T06:00:00Z",
+    "endTime": "2025-04-13T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "9eee6abb-472b-43e4-8128-359671e157e2",
+    "title": "KSL Weather",
+    "startTime": "2025-04-13T10:00:00Z",
+    "endTime": "2025-04-13T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "3303160b-569e-4056-9418-636ed5b04d77",
+    "title": "KSL Weather",
+    "startTime": "2025-04-13T14:00:00Z",
+    "endTime": "2025-04-13T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "19d961ee-c905-4162-988a-006fe9f4b111",
+    "title": "KSL Weather",
+    "startTime": "2025-04-13T18:00:00Z",
+    "endTime": "2025-04-13T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "c586c4d2-39b8-4ea1-b86f-7872d6479199",
+    "title": "KSL Weather",
+    "startTime": "2025-04-13T22:00:00Z",
+    "endTime": "2025-04-14T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "5cae0311-57d6-4c72-a141-9251a9883da1",
+    "title": "KSL Weather",
+    "startTime": "2025-04-14T02:00:00Z",
+    "endTime": "2025-04-14T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "a435ae0a-77ec-4d75-9c52-f0d59d0cb837",
+    "title": "KSL Weather",
+    "startTime": "2025-04-14T06:00:00Z",
+    "endTime": "2025-04-14T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "f6840b86-d2e8-46fe-9b65-8f0c47e7af01",
+    "title": "KSL Weather",
+    "startTime": "2025-04-14T10:00:00Z",
+    "endTime": "2025-04-14T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "0dd1853d-185e-4694-92c3-6686e7fe255c",
+    "title": "KSL Weather",
+    "startTime": "2025-04-14T14:00:00Z",
+    "endTime": "2025-04-14T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "a8f74664-004b-4b57-953d-aa6976b6a961",
+    "title": "KSL Weather",
+    "startTime": "2025-04-14T18:00:00Z",
+    "endTime": "2025-04-14T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "48ee8228-5987-4907-a64a-34c3c624191f",
+    "title": "KSL Weather",
+    "startTime": "2025-04-14T22:00:00Z",
+    "endTime": "2025-04-15T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "4ce0e8a2-c3f0-4968-8b2d-04deebd82a55",
+    "title": "KSL Weather",
+    "startTime": "2025-04-15T02:00:00Z",
+    "endTime": "2025-04-15T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "2c19894d-0a3f-4358-986c-e35fcfd7a9a7",
+    "title": "KSL Weather",
+    "startTime": "2025-04-15T06:00:00Z",
+    "endTime": "2025-04-15T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "4b29fe97-365f-4aa5-8ff3-4a6908b0d87e",
+    "title": "KSL Weather",
+    "startTime": "2025-04-15T10:00:00Z",
+    "endTime": "2025-04-15T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "97c2383b-cc30-42e1-85a2-abdaf98daffd",
+    "title": "KSL Weather",
+    "startTime": "2025-04-15T14:00:00Z",
+    "endTime": "2025-04-15T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "01771101-1f94-41b6-9fe1-36596f8fe140",
+    "title": "KSL Weather",
+    "startTime": "2025-04-15T18:00:00Z",
+    "endTime": "2025-04-15T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "0c5da5ba-e39b-404f-b365-fd74966d826f",
+    "title": "KSL Weather",
+    "startTime": "2025-04-15T22:00:00Z",
+    "endTime": "2025-04-16T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "b33ea7fe-77bd-4e88-b42a-08b0c86496d7",
+    "title": "KSL Weather",
+    "startTime": "2025-04-16T02:00:00Z",
+    "endTime": "2025-04-16T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "13c75fb1-fe31-4c83-aa47-b01955991ba0",
+    "title": "KSL Weather",
+    "startTime": "2025-04-16T06:00:00Z",
+    "endTime": "2025-04-16T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "0f243f57-0ce5-4a52-8d9a-f6176e2a9a6c",
+    "title": "KSL Weather",
+    "startTime": "2025-04-16T10:00:00Z",
+    "endTime": "2025-04-16T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "68a48262-f2bf-4095-8112-f279e01c8513",
+    "title": "KSL Weather",
+    "startTime": "2025-04-16T14:00:00Z",
+    "endTime": "2025-04-16T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "cef5336a-8f8f-442a-9d7a-669678b22e15",
+    "title": "KSL Weather",
+    "startTime": "2025-04-16T18:00:00Z",
+    "endTime": "2025-04-16T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "7731f077-2518-4488-b69e-a57f00838012",
+    "title": "KSL Weather",
+    "startTime": "2025-04-16T22:00:00Z",
+    "endTime": "2025-04-17T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "b5e45dbe-61f8-4676-8cc3-25839da003f2",
+    "title": "KSL Weather",
+    "startTime": "2025-04-17T02:00:00Z",
+    "endTime": "2025-04-17T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "8f0bd0ae-9a43-4427-9f66-077e1c9d4796",
+    "title": "KSL Weather",
+    "startTime": "2025-04-17T06:00:00Z",
+    "endTime": "2025-04-17T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "9951303c-231b-40f9-a2ef-29b116aa7566",
+    "title": "KSL Weather",
+    "startTime": "2025-04-17T10:00:00Z",
+    "endTime": "2025-04-17T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "72c7cc92-b6f5-4ff3-9db7-c92c5c155426",
+    "title": "KSL Weather",
+    "startTime": "2025-04-17T14:00:00Z",
+    "endTime": "2025-04-17T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "d1e215ee-c9ea-45ca-b64a-56bc6fc20d1e",
+    "title": "KSL Weather",
+    "startTime": "2025-04-17T18:00:00Z",
+    "endTime": "2025-04-17T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "e6814a84-bd5b-4ab0-81af-4ccff8b7bdba",
+    "title": "KSL Weather",
+    "startTime": "2025-04-17T22:00:00Z",
+    "endTime": "2025-04-18T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "54d9883a-da9c-48c0-80f2-cdf806743699",
+    "title": "KSL Weather",
+    "startTime": "2025-04-18T02:00:00Z",
+    "endTime": "2025-04-18T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "67927ecf-67e8-4bd6-9df8-5d2464882728",
+    "title": "KSL Weather",
+    "startTime": "2025-04-18T06:00:00Z",
+    "endTime": "2025-04-18T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "acd03469-9a04-4ea6-bd6e-a81e855a0ba0",
+    "title": "KSL Weather",
+    "startTime": "2025-04-18T10:00:00Z",
+    "endTime": "2025-04-18T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "5dc32633-35d0-4cfb-955a-2eb9bb1c302e",
+    "title": "KSL Weather",
+    "startTime": "2025-04-18T14:00:00Z",
+    "endTime": "2025-04-18T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "2426cc7c-2507-4627-9048-4cc66d3afee8",
+    "title": "KSL Weather",
+    "startTime": "2025-04-18T18:00:00Z",
+    "endTime": "2025-04-18T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "cb346889-cf30-4c02-9b73-d53532133a51",
+    "title": "KSL Weather",
+    "startTime": "2025-04-18T22:00:00Z",
+    "endTime": "2025-04-19T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "c0a94e4d-0b52-4adf-a4f2-09331f62b42d",
+    "title": "KSL Weather",
+    "startTime": "2025-04-19T02:00:00Z",
+    "endTime": "2025-04-19T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "a1c4d459-da1f-41e5-9921-a059a88c84d9",
+    "title": "KSL Weather",
+    "startTime": "2025-04-19T06:00:00Z",
+    "endTime": "2025-04-19T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "141015fd-7f92-4e93-bc26-346adb45b4f3",
+    "title": "KSL Weather",
+    "startTime": "2025-04-19T10:00:00Z",
+    "endTime": "2025-04-19T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "f072bfd9-60d1-4eac-bd4e-381e193e246a",
+    "title": "KSL Weather",
+    "startTime": "2025-04-19T14:00:00Z",
+    "endTime": "2025-04-19T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "c5943931-6f7e-454f-b74d-053cb97cd812",
+    "title": "KSL Weather",
+    "startTime": "2025-04-19T18:00:00Z",
+    "endTime": "2025-04-19T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "037f32e5-bf23-4167-8ab1-01d8de592f6c",
+    "title": "KSL Weather",
+    "startTime": "2025-04-19T22:00:00Z",
+    "endTime": "2025-04-20T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "af19bfef-03c7-48d7-98ab-7ddc984c416b",
+    "title": "KSL Weather",
+    "startTime": "2025-04-20T02:00:00Z",
+    "endTime": "2025-04-20T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "00711cdf-6b04-4018-8668-2cd792ffc3a6",
+    "title": "KSL Weather",
+    "startTime": "2025-04-20T06:00:00Z",
+    "endTime": "2025-04-20T10:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "e6773766-e4a0-4476-b29d-d6259cf60079",
+    "title": "KSL Weather",
+    "startTime": "2025-04-20T10:00:00Z",
+    "endTime": "2025-04-20T14:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "08c7b0b6-80f0-43b4-adf7-3d17007c7f08",
+    "title": "KSL Weather",
+    "startTime": "2025-04-20T14:00:00Z",
+    "endTime": "2025-04-20T18:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "69aad14c-ab1f-43de-943c-f806f36a39f8",
+    "title": "KSL Weather",
+    "startTime": "2025-04-20T18:00:00Z",
+    "endTime": "2025-04-20T22:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "ed9e490c-f87b-4d87-85df-ef561a9b1ed5",
+    "title": "KSL Weather",
+    "startTime": "2025-04-20T22:00:00Z",
+    "endTime": "2025-04-21T02:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  },
+  {
+    "id": "914dd102-f5e0-4b50-a8b2-1ae1970bdd10",
+    "title": "KSL Weather",
+    "startTime": "2025-04-21T02:00:00Z",
+    "endTime": "2025-04-21T06:00:00Z",
+    "chapterPointCustomProperties": [
+      {
+        "key": "description",
+        "value": ""
+      },
+      {
+        "key": "image",
+        "value": null
+      }
+    ]
+  }
 ]
